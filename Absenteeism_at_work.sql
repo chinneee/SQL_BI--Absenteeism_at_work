@@ -1,3 +1,6 @@
+USE Absenteeism_at_work
+GO
+
 --create a join table
 SELECT * FROM Absenteeism_at_work a
 LEFT JOIN compensation c
